@@ -7,6 +7,10 @@
         <entry key="..\:/ASProjects/TourGuideApp/app/src/main/res/drawable/ic_call_icon.xml" value="0.1" />
         <entry key="..\:/ASProjects/TourGuideApp/app/src/main/res/drawable/ic_info_item.xml" value="0.1" />
         <entry key="..\:/ASProjects/TourGuideApp/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/ASProjects/TourGuideApp/app/src/main/res/layout/card_place.xml" value="0.4" />
+        <entry key="..\:/ASProjects/TourGuideApp/app/src/main/res/layout/fragment_monument.xml" value="0.259375" />
+        <entry key="..\:/ASProjects/TourGuideApp/app/src/main/res/layout/fragment_nature.xml" value="0.259375" />
+        <entry key="..\:/ASProjects/TourGuideApp/app/src/main/res/layout/fragment_religion.xml" value="0.259375" />
       </map>
     </option>
   </component>
